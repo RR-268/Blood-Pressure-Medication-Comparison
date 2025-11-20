@@ -1,4 +1,4 @@
-# Blood-Pressure-Medication-Comparison
+# Blood Pressure Medication Comparison
 
 ## Overview
 This project presents a statistical analysis of a clinical trial comparing the efficacy of three antihypertensive medications: **Ramipril**, **Lisinopril**, and **Moexipril**. The study evaluates the reduction in Systolic Blood Pressure (SBP) across 12 participants to identify the most effective treatment while controlling for baseline variability.
